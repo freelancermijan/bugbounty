@@ -4,6 +4,8 @@ https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/Bug%20Bounty%20dork.tx
 
 https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 
+https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/%40Proviesec%20-%20top-quality-google-dorks/google-dorks-for-bug-bounty-programs.txt
+
 ### XSS finding dorks
 
 https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/XSS_dork.txt
