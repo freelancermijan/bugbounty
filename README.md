@@ -21,3 +21,7 @@ https://github.com/coffinxp/pdFExploits
 ### XSS image payloads
 
 https://github.com/coffinxp/img-payloads
+
+### XSS Fuzzer Online
+
+https://freelancermijan.github.io/xss-fuzzer/
