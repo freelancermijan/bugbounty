@@ -10,6 +10,8 @@ https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/%40Proviesec%20-%20top
 
 https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/XSS_dork.txt
 
+https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/%40Proviesec%20-%20top-quality-google-dorks/google-dorks-for-xss.txt
+
 ### XSS payloads
 
 https://github.com/coffinxp/payloads/blob/master/xsswafbypss.txt
