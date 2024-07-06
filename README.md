@@ -17,3 +17,7 @@ https://github.com/freelancermijan/my-payloads/blob/main/XSS/xss-collected.txt
 ### XSS pdf payloads
 
 https://github.com/coffinxp/pdFExploits
+
+### XSS image payloads
+
+https://github.com/coffinxp/img-payloads
