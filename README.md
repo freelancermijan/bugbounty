@@ -31,3 +31,10 @@ https://github.com/coffinxp/img-payloads
 ### XSS Fuzzer Online
 
 https://freelancermijan.github.io/xss-fuzzer/
+
+
+### SQLi Dorks
+
+```
+https://github.com/HackShiv/OneDorkForAll/blob/main/dorks/SQLi_dork.txt
+```
